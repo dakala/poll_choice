@@ -1,0 +1,5 @@
+name: Poll choice
+type: module
+description: Poll choice field.
+core: 8.x
+package: Other
